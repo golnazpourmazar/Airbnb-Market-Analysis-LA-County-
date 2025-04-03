@@ -10,27 +10,25 @@ Criteria for Success:
 The goal of this analysis is to find useful insights from Airbnb data in LA County through visualizations.
 It will show:
 
-Booking distribution across regions and room types to find high-demand areas.
+- Booking distribution across regions and room types to find high-demand areas.
 
-Average price per region and room type to help with pricing strategies.
+- Average price per region and room type to help with pricing strategies.
 
-Booking trends over time to understand market growth.
+- Booking trends over time to understand market growth.
 
-Seasonal patterns by looking at monthly booking trends in each region.
+- Seasonal patterns by looking at monthly booking trends in each region.
 
-A geographic map of listings for a better visual understanding of locations.
+- A geographic map of listings for a better visual understanding of locations.
 
-The number of neighborhoods in each region to measure market density.
+- The number of neighborhoods in each region to measure market density.
 
-Average price per neighborhood to identify expensive and budget-friendly areas.
+- Average price per neighborhood to identify expensive and budget-friendly areas.
 
-The population of superhost in each regions to see how serious investors are located
+- The population of superhost in each regions to see how serious investors are located
 
-How much revenue per year per region 
+- How much revenue per year per region 
 
-Short versus long stay trend
-
-For investing, house price for regions and check the plot
+- Short versus long stay trend
 
 Scope of Solution Space:
 
